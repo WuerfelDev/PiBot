@@ -2,6 +2,7 @@
 The [@PiBot](https://telegram.me/PiBot) is a Telegram bot based on [tg-cli](https://github.com/vysheng/tg). That means he does not require a username which ends with bot, he could possibly add/remove users in groups, but therefore he can't show a custom keyboard to the users and is a little bit slower than those API-bots. The PiBot runs bash-plugins through an organising Lua script.
 
 <b>ATTENTION:</b> The PiBot is not constantly running. It's just an early beta.
+
 He can also not reply in Secret Chats, SuperGroups, Channels.
 
 
@@ -23,11 +24,14 @@ Facts
 Want your own PiBot?
 --------------------
 <b>Please be patient</b>
+
 I don't have much time to work on it.
 
 
 Getting involved
 ----------------
 Join the support [group](https://telegram.me/joinchat/02d2bc3f01fbd5eba1b59488c81cfd74)
+
 Follow [@PiBot_news](https://telegram.me/PiBot_news)
+
 But please feel free to contact me: write `about` to him to get my username.
